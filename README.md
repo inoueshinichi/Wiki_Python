@@ -1,2 +1,4 @@
 # Wiki_Python
-Pythonメモ
+Pythonメモ  
+
+メモはWikiに記載
