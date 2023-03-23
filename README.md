@@ -1,7 +1,6 @@
-# Wiki_Python
-Pythonメモ  
+# Memo of Python
+ 
+メモはWikiに記載.
 
-メモはWikiに記載
 
-### 学び
-+ マルチスレッド/マルチプロセス, 並行処理/並列処理
+
